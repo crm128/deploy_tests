@@ -14,7 +14,7 @@ st.set_page_config(
 df = pd.DataFrame()
 
 
-st.set_page_config(page_title="Simulador TAC", layout="wide")
+#st.set_page_config(page_title="Simulador TAC", layout="wide")
 st.title("Simulador de Arranque - Reactor TAC")
 
 st.sidebar.header("Parámetros de simulación")
